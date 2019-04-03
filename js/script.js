@@ -37,7 +37,7 @@ for (let i = 0; i <= 9; i++, console.log(i - 1)) {};
 
 console.log('задание 5');
 
-var abb = '\nx';
+var abb = 'x';
 
 for (let i = 0; i < 20; i++) {
     console.log (abb);
