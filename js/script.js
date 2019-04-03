@@ -2,7 +2,7 @@ console.log('Задание 1');
 var arr = [],
     num = 2;
 while (num <= 100) {
-    var numCheck = 1;
+    let numCheck = 1;
     for (let i = 0; i < arr.length; i++) {
         if (num % arr[i] === 0) {
             numCheck = 0;
